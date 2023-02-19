@@ -7,6 +7,14 @@ Based on https://github.com/HiLASEPythonCourse/hilase-python-course-2021
 - Jan Pipek
 - Jakub Urban
 
+## Installation
+
+In principle, it is enough to have a recent Python version with required libraries installed
+but unless you are completely sure what you are doing, we recommend to follow the guide-lines
+in the following notebook:
+
+- [Installation](notebooks/010_installation.ipynb)
+
 ## Links
 
 ### Czech Python community (in Czech)
