@@ -5,3 +5,5 @@ xarray
 matplotlib
 plotly
 seaborn
+lxml
+openpyxl
