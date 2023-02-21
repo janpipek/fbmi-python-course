@@ -1,0 +1,8 @@
+# numbers
+10.1
+105
+# can be negative
+-20.55
+0.0
+7
+# 8
