@@ -18,7 +18,7 @@ in the following notebook:
 Back-up solution: After free registration, you may start an interactive on-line environment
 on DeepNote that has all the dependencies installed:
 
-[Create a DeepNote project](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fjanpipek%2Ffbmi-python-course)
+- [Create a DeepNote project](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fjanpipek%2Ffbmi-python-course)
 
 ## Links
 
