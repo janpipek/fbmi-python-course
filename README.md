@@ -25,7 +25,7 @@ on DeepNote that has all the dependencies installed:
 ### Czech Python community (in Czech)
 
 - [python.cz](https://python.cz/)
-- [Learning](https://naucse.python.cz/)
+- [Learning](https://naucse.python.cz/) 
 
 ### Official documentation
 
@@ -37,3 +37,8 @@ on DeepNote that has all the dependencies installed:
 ### Tutorials
 
 - [RealPython](https://realpython.com/) - server with a lot of nice tutorials
+
+## Datasets
+
+- notebook/data/us-cities.csv - downloaded from https://github.com/kelvins/US-Cities-Database (MIT license)
+- notebook/data/us-cities-with-population.csv - downloaded from https://github.com/plotly/datasets/blob/master/us-cities-top-1k.csv (MIT License)
