@@ -41,4 +41,4 @@ on DeepNote that has all the dependencies installed:
 ## Datasets
 
 - notebook/data/us-cities.csv - downloaded from https://github.com/kelvins/US-Cities-Database (MIT license)
-- notebook/data/us-cities-with-population.csv - downloaded from https://www.kaggle.com/datasets/sergejnuss/united-states-cities-database (License: Creative Commons Attribution 4.0)
+- notebook/data/us-cities-with-population.csv - downloaded from https://github.com/plotly/datasets/blob/master/us-cities-top-1k.csv (MIT License)
