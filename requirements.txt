@@ -10,3 +10,4 @@ openpyxl
 requests
 click
 typer
+astropy
