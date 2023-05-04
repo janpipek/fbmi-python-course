@@ -8,4 +8,6 @@ seaborn
 lxml
 openpyxl
 requests
+click
+typer
 astropy
