@@ -1,4 +1,4 @@
-# Python Course for FBMI 2023
+# Python Course for FBMI
 
 Based on https://github.com/HiLASEPythonCourse/hilase-python-course-2021
 
